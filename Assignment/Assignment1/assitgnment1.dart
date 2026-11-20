@@ -15,7 +15,7 @@ void main(){
 
   //Map
   Map<String,dynamic> Student ={
-    'name':'KAIYUM',
+    'name':'kaiyum',
     'age':20,
     'city':'Feni'
   };
